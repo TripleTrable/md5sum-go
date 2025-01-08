@@ -1,7 +1,20 @@
+# > [!WARNING]
+> Currently the calculated md5sum is wrong. I Could not find the bug in time and
+> priotised the rest as the algorithm works when comparing only the hashes it
+> has generated itself.
+
 
 # md5sum
 md5sum ([RFC1321](rfc1321.txt)) in Go
 
+## install
+
+To build the project, go into the go folder and there run:
+```bash
+$ go build .
+```
+
+After the build the md5sum executable can be used or maunally installed.
 
 ## Usage
 
