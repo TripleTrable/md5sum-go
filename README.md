@@ -6,6 +6,7 @@
 
 # md5sum
 md5sum ([RFC1321](rfc1321.txt)) in Go
+This is part of a TH-Rosenheim module. The counterpart is located at https://github.com/TripleTrable/md5sum.git
 
 ## install
 
